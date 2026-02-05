@@ -16,3 +16,9 @@ wp-config.php
 .DS_Store
 node_modules/
 .env
+
+# Database backups
+*.sql
+*.sql.gz
+wp-content/*backup*
+wp-content/*db*
