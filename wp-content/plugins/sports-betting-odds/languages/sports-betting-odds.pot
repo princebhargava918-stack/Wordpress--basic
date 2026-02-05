@@ -1,0 +1,238 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-01-24 10:43+0500\n"
+"PO-Revision-Date: 2023-01-24 11:20+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_n;_x;esc_attr__;esc_attr_e;esc_attr;esc_attr_x;"
+"esc_html__;esc_html_e;esc_html_x;esc_html\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sports_betting.php:59 sports_betting.php:60
+msgid "Manual Betting Odds"
+msgstr ""
+
+#: sports_betting.php:53
+msgid "Odds Options"
+msgstr ""
+
+#: sports_betting.php:61 
+msgid "Manual Odds"
+msgstr ""
+
+#: sports_betting.php:62 sports_betting.php:77
+msgid "Odds"
+msgstr ""
+
+#: sports_betting.php:63 
+msgid "Parent Item"
+msgstr ""
+
+#: sports_betting.php:64
+msgid "All Odds"
+msgstr ""
+
+#: sports_betting.php:65 sports_betting.php:66 
+msgid "Add New Odds"
+msgstr ""
+
+#: sports_betting.php:67 
+msgid "New Odds"
+msgstr ""
+
+#: sports_betting.php:68 
+msgid "Edit Odds"
+msgstr ""
+
+#: sports_betting.php:69 
+msgid "Update Odds"
+msgstr ""
+
+#: sports_betting.php:70 
+msgid "View Odds"
+msgstr ""
+
+#: sports_betting.php:71 
+msgid "Search Odds"
+msgstr ""
+
+#: sports_betting.php:72 
+msgid "Not found"
+msgstr ""
+
+#: sports_betting.php:73 
+msgid "Not found in Trash"
+msgstr ""
+
+#: includes/odds_meta.php:13
+msgid "Sports"
+msgstr ""
+
+#: includes/odds_meta.php:16
+msgid "Select sports"
+msgstr ""
+
+#: includes/odds_meta.php:17
+msgid "NFL"
+msgstr ""
+
+#: includes/odds_meta.php:18
+msgid "MLB"
+msgstr ""
+
+#: includes/odds_meta.php:19
+msgid "NBA"
+msgstr ""
+
+#: includes/odds_meta.php:20
+msgid "WNBA"
+msgstr ""
+
+#: includes/odds_meta.php:21
+msgid "NHL"
+msgstr ""
+
+#: includes/odds_meta.php:22
+msgid "NCAAF"
+msgstr ""
+
+#: includes/odds_meta.php:23
+msgid "NCAAB"
+msgstr ""
+
+#: includes/odds_meta.php:28
+msgid "Site Affiliate URL"
+msgstr ""
+
+#: includes/odds_meta.php:28
+msgid "The referral url from the affiliate program"
+msgstr ""
+
+#: includes/odds_meta.php:33
+msgid "Team1"
+msgstr ""
+
+#: includes/odds_meta.php:55
+msgid "Team2"
+msgstr ""
+
+#: includes/odds_meta.php:36 includes/odds_meta.php:59
+msgid "Name"
+msgstr ""
+ 
+#: includes/odds_meta.php:39 includes/odds_meta.php:62
+msgid "H2H"
+msgstr ""
+
+#: includes/odds_meta.php:42 includes/odds_meta.php:65
+msgid "Spread-Price"
+msgstr ""
+
+#: includes/odds_meta.php:45 includes/odds_meta.php:68
+msgid "Spread-Point"
+msgstr ""
+
+#: includes/odds_meta.php:48 includes/odds_meta.php:71
+msgid "Total-Price"
+msgstr ""
+
+#: includes/odds_meta.php:51 includes/odds_meta.php:74
+msgid "Total-Point"
+msgstr ""
+
+#: includes/odds-plugin-setup.php:17
+msgid "Title"
+msgstr ""
+
+#: includes/odds-plugin-setup.php:18
+msgid "Site Id"
+msgstr ""
+
+#: includes/odds-plugin-setup.php:19
+msgid "Post Date"
+msgstr ""
+
+#: includes/odds_document.php:23 
+msgid "Click Here to check User Manual/Documentation of the plugin"
+msgstr ""
+
+#: includes/odds_document.php:27 includes/odds_document.php:30 includes/odds_document.php:33 
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/odds_document.php:27 
+msgid "1. Inbuilt bookmakers"
+msgstr ""
+
+#: includes/odds_document.php:30
+msgid "2. Live betting odds  API for major leagues like NFL, NHL, NCAAF, MLB, NBA,NCAAB"
+msgstr ""
+
+#: includes/odds_document.php:33 
+msgid "3. Live scores, team standings, team players etc"
+msgstr ""
+
+#: includes/odds_options_page.php:11 includes/odds_options_page.php:12 includes/odds_document.php:10 
+msgid "Document"
+msgstr ""
+
+#: includes/odds_shortcode.php:13
+msgid "1. Create Odds using 'Add New Odds'"
+msgstr ""
+
+#: includes/odds_shortcode.php:16
+msgid "2. Use the post id to create shortcode as shown below"
+msgstr ""
+
+#: includes/odds_shortcode.php:19
+msgid "Example"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Bookmakers"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Teams"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "H2H"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Spread"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Total"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Mny Ln"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Prc"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:28
+msgid "Pts"
+msgstr ""
+
+#: includes/shortcodes/manual-odds-shortcode.php:141
+msgid "Bet Now"
+msgstr ""
+
+#: includes/odds_document.php:37
+msgid "Upgrade to Pro"
+msgstr ""

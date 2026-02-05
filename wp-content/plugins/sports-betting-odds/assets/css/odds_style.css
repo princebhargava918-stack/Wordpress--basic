@@ -1,0 +1,57 @@
+table.last_table tr.first_heading th{padding-top:15px;}
+table.last_table tr.second_heading th{padding-bottom:5px;}
+table.last_table {border-collapse: separate;border-spacing: 0;}
+table.last_table tr th,table.last_table tr td{padding: 0px 5px;line-height: 15px;border-right: 1px solid #b2b4b7;}
+div table.last_table tbody tr td:first-child{border-top-left-radius:0px !important;}
+div table.last_table tbody tr td:last-child{border-top-right-radius:0px !important;}
+table.last_table tbody tr:nth-child(odd) td:first-child{border-top-left-radius:5px;}
+table.last_table tbody tr:nth-child(odd) td:last-child{border-top-right-radius:5px;}
+table.last_table tbody:nth-child(even) tr:nth-child(even) td:first-child{border-bottom-left-radius:5px;}
+table.last_table tbody:nth-child(even) tr:nth-child(even) td:last-child{border-bottom-right-radius:5px;}
+table.last_table tbody tr:nth-child(odd) td{border-bottom: 1px solid #b2b4b7;}
+table.last_table tbody tr:nth-child(even) td{border-bottom: 2px solid #fff;}
+table.last_table tr th:last-child,table.last_table tr td:last-child{border-right: 0px;}
+table.last_table tr th:last-child,table.last_table tr td:last-child{border-right: 0px;}
+table.last_table tr th{background:#2f81e7;border-top: solid 1px #b2b4b7;}
+table.last_table tr:first-child th:first-child {border-top-left-radius: 15px;}
+table.last_table tr:first-child th:last-child{border-top-right-radius: 15px;}
+table.last_table tr:last-child td:first-child{border-bottom-left-radius:5px;}
+table.last_table tr:last-child td:last-child{border-bottom-right-radius:5px;}
+.last_table tr{background: #e4e4e4;}
+.last_table thead tr:nth-child(4n+1), .last_table thead tr:nth-child(4n+2){background: #fff;}
+.last_table tr:nth-child(4n+1),.last_table tr:nth-child(4n+2){background: #f4f4f5;}
+a.odds_btn{background:#fe0000;border-color:#fe0000;color: #fff;padding:10px 20px;text-decoration: none;font-size:15px;border-radius: 5px;}
+table.last_table tbody tr td.bookmaker_logo{border-bottom:0px;}
+table.last_table{width:100%;font-size: 12px;margin:5px 0px;}
+table.last_table td{padding:5px 0px;height: 60px;text-align:center;}
+table.last_table thead{background:#2f81e7;color:#fff;}
+table.last_table thead tr th.price{border-left: 0px;border-right: 0px;}
+table.last_table thead tr th{border-bottom: 0px;font-weight: 500;border-top: 0px;font-weight: 500;}
+table.last_table a.bet_now,input[type=button].bet_now {color: #fff;padding: 10px 35px;border-radius:5px;font-size: 13px;background:#fe0000;text-align: center;text-transform: uppercase;border:0px;}
+table.last_table tbody tr{border-bottom:1px solid #1e1b1b;}
+.bottom_btn{margin-top:20px;}
+.see_details_btn a.bet_now {color: #fff;}
+
+/** Media Queries **/
+
+@media screen and (min-width:1px) and (max-width:1143px) {
+	table.last_table a.bet_now, a.bet_now{padding:10px 30px;}
+	table.scores_table{width: 100%;}
+}
+@media screen and (min-width:992px) and (max-width:1143px) {
+	table.last_table a.bet_now, a.bet_now{padding:10px 30px;}
+}
+@media screen and (min-width:768px) and (max-width:991px) {
+	table.last_table a.bet_now, a.bet_now{padding:10px 30px;}
+}
+@media screen and (min-width:1px) and (max-width:767px) {
+	table.last_table a.bet_now, a.bet_now{padding:10px 30px;}
+}
+@media screen and (min-width:480px) and (max-width:767px) {
+	table.last_table a.bet_now, a.bet_now{padding:10px 30px;}
+}
+@media screen and (min-width: 1px) and (max-width:479px){			
+	table.last_table a.bet_now, a.bet_now{padding:10px;}
+	table.last_table a.bet_now, a.bet_now, input[type="button"].bet_now {font-size: 9px;}
+	table.last_table img {width: 60px;}
+}
