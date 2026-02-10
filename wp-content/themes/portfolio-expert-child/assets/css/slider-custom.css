@@ -1,0 +1,94 @@
+.custom-jquery-slider-wrapper {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.custom-jquery-slider .slider-item {
+    position: relative;
+}
+
+.custom-jquery-slider .slider-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.custom-jquery-slider .slider-caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+    color: #fff;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.4);
+    padding: 40px 0;
+}
+
+.custom-jquery-slider .slider-caption h2 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.custom-jquery-slider .slider-caption p {
+    font-size: 1.2rem;
+    margin-bottom: 25px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-jquery-slider .slider-caption .btn {
+    padding: 12px 30px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: #007bff;
+    border: none;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.custom-jquery-slider .slider-caption .btn:hover {
+    background-color: #0056b3;
+}
+
+/* Slick arrows customization */
+.slick-prev,
+.slick-next {
+    z-index: 10;
+    width: 40px;
+    height: 40px;
+}
+
+.slick-prev {
+    left: 20px;
+}
+
+.slick-next {
+    right: 20px;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    font-size: 40px;
+    opacity: 0.8;
+}
+
+@media (max-width: 768px) {
+    .custom-jquery-slider .slider-caption h2 {
+        font-size: 1.8rem;
+    }
+
+    .custom-jquery-slider .slider-caption p {
+        font-size: 1rem;
+    }
+}
