@@ -74,7 +74,7 @@
 /* Active state for current section */
 .toc-list a.active {
     font-weight: 600;
-    color: #004267;
+    color: #f8f9fa;
 }
 
 /* Responsive adjustments */
@@ -87,3 +87,4 @@
         margin: 6px 0;
     }
 }
+
